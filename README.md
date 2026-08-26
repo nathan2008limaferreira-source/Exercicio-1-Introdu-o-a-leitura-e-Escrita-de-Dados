@@ -1,1 +1,1 @@
-# Exercicio-1-de-Introdução-a-leitura-e-Escrita-de-Dados-
+# Exercicios-de-Introdução-a-leitura-e-Escrita-de-Dados-
